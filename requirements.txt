@@ -5,5 +5,5 @@ scipy
 pandas
 ipywidgets
 ipympl
-IPython
+IPython>=7.12.0
 voila
