@@ -1,9 +1,6 @@
 numpy
 matplotlib
 scipy
-pandas
 ipywidgets
-ipympl
-IPython>=7.12.0
 voila
 
