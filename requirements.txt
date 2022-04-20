@@ -6,4 +6,4 @@ ipywidgets
 ipympl
 IPython>=7.12.0
 voila
-goggle-colab>=1.0.0
+
