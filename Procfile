@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser Notebook/LotKa-Volt_Comp_Interact.ipynb
+web: voila --port=$PORT --no-browser notebook/LotKa-Volt_Comp_Interact.ipynb
